@@ -1,0 +1,21 @@
+.uploadButtonDivClass{
+    margin: auto;
+    max-width: 500px;
+    padding-top: 200px;
+    text-align: center;
+    justify-content:end;
+}
+
+.uploadButton{
+    background: #64c4ed;
+    color: black;
+    margin: auto;
+    width: 200px;
+    height: 70px;
+    border: 5px 5px;
+    border-color: black;
+    display: inline;
+    position: relative;
+    font-size: 1.23em;
+}
+
